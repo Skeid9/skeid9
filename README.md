@@ -3,7 +3,7 @@
 > 🔭 Freelance. 
 
 ### Tech stack ✨
-<img src="https://github.com/Skeid9/skeid9/assets/46383930/97033096-e8d7-4198-9b30-eb34542ba326" alt="php" height="48"> <img src="" height="48"> <img src="https://github.com/Skeid9/skeid9/assets/46383930/3fff92c9-115a-4fc3-9759-62ea7fda96d0" alt="node" height="48"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" height="48"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Nuxt_logo.svg/2560px-Nuxt_logo.svg.png" height="48"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height="48"> <img src="https://brandslogos.com/wp-content/uploads/thumbs/bootstrap-logo-vector.svg" height="48">
+<img src="https://github.com/Skeid9/skeid9/assets/46383930/97033096-e8d7-4198-9b30-eb34542ba326" alt="php" height="48"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/LaravelLogo.png" height="48"> <img src="https://github.com/Skeid9/skeid9/assets/46383930/3fff92c9-115a-4fc3-9759-62ea7fda96d0" alt="node" height="48"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" height="48"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Nuxt_logo.svg/2560px-Nuxt_logo.svg.png" height="48"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height="48"> <img src="https://brandslogos.com/wp-content/uploads/thumbs/bootstrap-logo-vector.svg" height="48">
 
 
 <!--
